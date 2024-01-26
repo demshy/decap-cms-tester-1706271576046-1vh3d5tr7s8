@@ -2,9 +2,9 @@
 template: post
 title: second title
 date: 1970-01-01T00:00:00.900Z
-description: second description
-category: second category
+description: third description
+category: third category
 tags:
-  - tag2
+  - tag3
 ---
-second body
+third body
